@@ -1,68 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%91%BE;Welcome+to+gemparnugroho725's+Digital+Realm...;Building+the+future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Gempar Cahyo Nugroho 👋</h1>
+<h3 align="center">Cybersecurity Engineering Student — Network Security Monitoring & Detection</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Politeknik+Siber+dan+Sandi+Negara;CTF+Player+%7C+Blue+Team+Enthusiast;Network+Security+%26+Detection+Engineering;ASEAN+CyberShield+Alumnus" alt="Typing SVG" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black">
-  <img src="https://img.shields.io/badge/Open_Source_Enthusiast-FF00FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=gemparnugroho725&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="gemparnugroho725" />
+  <a href="https://gemparcahyo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
 </p>
 
 ---
 
-## 👨‍💻 // ABOUT_ME.exe
-> *"I don't just write code; I architect digital realities."*
+### 🛡️ About Me
 
-- 🌌 **Status:** Currently exploring the multiverse of Web3 & AI.
-- 🚀 **Mission:** Building scalable systems and breaking things to fix them better.
-- ☕ **Fuel:** Black coffee and dark mode environments.
-- 📫 **Ping me:** [Masukkan Email/LinkTree Lu Di Sini](#)
+I'm a Taruna (cadet) in the **Rekayasa Keamanan Siber** program at **Politeknik Siber dan Sandi Negara (PoltekSSN)**, focused on network security monitoring and detection. My work sits at the intersection of blue team operations, applied research, and hands-on system building.
 
-<br>
+- 🌐 Completed an international exchange at **Kangwon National University**, South Korea, under the **ASEAN CyberShield** program
+- 🎖️ Led a flag ceremony role at the **Indonesian Embassy in Seoul** during the exchange
+- 🚩 Active CTF competitor, with placements at **Cyber Jawara 2025** and **Code The Future 2026**
+- 📡 Involved in **Birum** (communications and media unit) and cross-institutional cadet projects at PoltekSSN
+- 🌏 Member of **Google Developer Group on Campus** and **PPIDK Asiania**
 
-## 🛠️ // TECH_ARSENAL
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+---
+
+### 🧰 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,linux,git,github,arduino,wireshark,latex&theme=dark" />
 </p>
 
-<br>
+**Focus areas**
+- Network security monitoring, traffic analysis, and detection engineering
+- IoT and embedded security experimentation (ESP32, LoRa)
+- Adversarial machine learning for malware detection
+- Digital forensics and incident response (Volatility, memory analysis)
+- CTF disciplines spanning forensics, OSINT, and cryptography
 
-## 📊 // SYSTEM_ANALYTICS
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gemparnugroho725&show_icons=true&hide_border=true&theme=tokyonight&hide=issues,contribs" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemparnugroho725&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gemparnugroho725&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemparnugroho725&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-## 🔥 // CONTRIBUTION_STREAK
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gemparnugroho725&theme=tokyonight&hide_border=true&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemparnugroho725&theme=highcontrast&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 // FEATURED_PROJECTS
-*Pro-Tip: Untuk menampilkan 6 proyek unggulan lu di sini, buka halaman profil utama GitHub lu, scroll ke bagian "Popular repositories", klik **"Customize your pins”**, dan pilih proyek terbaik lu!*
+### 🚀 Featured Work
 
-<br>
+| Project | Description |
+|---|---|
+| **ESP32-LoRa Morse Communication** | Long-range covert communication system with adaptive parameter tuning, built for a Perang Elektronika research paper |
+| **AML for Windows PE Malware Detection** | Adversarial robustness study comparing LightGBM and MLP under FGSM and PGD attacks, using the EMBER2024 dataset |
+| **SafeShell** | Dual-mode Android launcher with a decoy mode, Telegram-based security alerts, and AES-128 file header encryption |
+| **AstraShield Loop** | Location-based loyalty and QRIS payment concept for automotive UMKM, built for AstraPay Hackathon 2026 |
+
+---
+
+### 📫 Let's Connect
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e8b0821b-8069-4582-b8ca-142608621a51.gif" width="800">
+  <a href="https://gemparcahyo.netlify.app">Portfolio</a> •
+  <a href="mailto:youremail@example.com">Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-8905-4685-b58c-4927c631379d.gif" width="150">
-  <br>
-  <strong>Thanks for dropping by! Let's build something epic.</strong>
+  <img src="https://komarev.com/ghpvc/?username=gemparnugroho725&color=39FF14&style=flat" alt="profile views" />
 </p>
