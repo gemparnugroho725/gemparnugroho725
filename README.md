@@ -1,26 +1,57 @@
-![gemparnugroho725 profile overview with original avatar and companion characters](https://www.gitskins.com/api/readme-reference/character-overview?username=gemparnugroho725&theme=github-dark&avatarVariant=0&characters=terminal-hacker%2Corbital-explorer%2Cforest-systems%2Cretro-operator%2Cdata-cartographer&layout=arc&lightning=subtle&v=character-overview-4)
+# gemparnugroho725
 
-## Contribution Activity
+> Recruiter-friendly proof and contact path.
 
-![gemparnugroho725 contribution graph](https://www.gitskins.com/api/readme-reference/activity-graph?username=gemparnugroho725&theme=github-dark)
+**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-![gemparnugroho725 animated contribution calendar](https://www.gitskins.com/api/readme-reference/character-calendar?username=gemparnugroho725&theme=github-dark&motion=snake&v=reference-snake-4)
+## Header
+> Editing this section in the inspector.
+Hi, I'm **gemparnugroho725**. This README is tuned for **get hired** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=gemparnugroho725&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=gemparnugroho725&theme=github-dark" alt="gemparnugroho725 social section" />
+  </picture>
+</p>
 
-## Languages · Frameworks · Tools
-
-![gemparnugroho725 language logos](https://www.gitskins.com/api/readme-reference/technology-stack?logos=TypeScript%2CJavaScript%2CCSS%2CPLpgSQL%2CHTML&v=local-logo-grid-1)
-
-TypeScript · JavaScript · CSS · PLpgSQL · HTML
-
-TypeScript JavaScript CSS PLpgSQL HTML
-
-## Competitive Programming
-
-![gemparnugroho725 competitive programming signal](https://www.gitskins.com/api/readme-reference/competitive?username=gemparnugroho725&theme=github-dark&v=competitive-layout-2)
-
-## Featured Projects
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gemparnugroho725&theme=github-dark&v=profile-preview-2&mode=light">
-  <img alt="gemparnugroho725 featured projects" loading="eager" decoding="async" src="https://www.gitskins.com/api/section/projects?username=gemparnugroho725&theme=github-dark&v=profile-preview-2&mode=dark">
-</picture>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
